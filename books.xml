@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="mycss.css" type="text/css"?>
+<books>
+<heading>2405之書房</heading>
+<book>
+<title>攝影師之旅</title>
+<author>邱擊敗</author>
+<publisher>紅夢出版社</publisher>
+<price>$300</price>
+</book>
+
+<book>
+<title>吃貨之旅</title>
+<author>芃伶豬</author>
+<publisher>紅夢出版社</publisher>
+<price>$400</price>
+</book>
+</books>
